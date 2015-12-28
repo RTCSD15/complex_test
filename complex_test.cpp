@@ -11,7 +11,7 @@ operator << (ostream& os, const complex& x)
 
 int main()
 {
-  complex c1(3, 2);
+  complex c1(7, 2);
   complex c2(4, 5);
 
   cout << c1 << endl;
